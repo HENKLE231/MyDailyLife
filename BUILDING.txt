@@ -1,0 +1,9 @@
+
+- Conectar com banco de dados.
+- Adicionar save na nuvem e download de contas especificas usando email como ID.
+- Logar com contas do banco sem precisar estar nas prefs.
+- Escolha da ordem de apresentação das páginas: alfabetica, modificação.
+- Edição e exclusão de uma só página no DB.
+- Só permitir cadastro de email quando houver conexão com banco.
+- Opção para limpar prefs.
+- Criptografar senha
